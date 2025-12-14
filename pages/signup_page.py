@@ -8,5 +8,5 @@ class Signup(Basepage):
 
     def signup(self):
         self.type(self.Name,"asmit")
-        self.type(self.Email,"andugandug@gmail.com")
+        self.type(self.Email,"andugandugjakg@gmail.com")
         self.click(self.Sign_up)
